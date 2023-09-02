@@ -9,7 +9,7 @@
     - Religion  
  categories:  
     - Content 
- --- 
+--- 
   
  # Bhagavad Gita, The Timeless Wisdom for Life's Journey  
   ![Shree Krishna And Arjuna ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7z2gaQT47f2WR-DVcvS8YfweaSGTIPSnB6w&usqp=CAU)  
