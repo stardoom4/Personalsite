@@ -1,4 +1,4 @@
-description: The starter theme template of HB (Hugo Bootstrap) Framework.
+description: The Grid
 
 hb:
   # js_bundle_name: main # the JS bundle name.
@@ -8,13 +8,13 @@ hb:
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
-      github: hbstack
+      github: stardoom4
       twitter: razonyang
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       _color: true # when false, remove the color of social icons.
-      github: hbstack
+      github: stardoom4
       twitter: razonyang
   blog:
     full_width: false # when true, the blog layout takes full width.
