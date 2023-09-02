@@ -1,5 +1,5 @@
 ---
-title: HB 主题模板
+title: Celestial Entity 
 # menu:
 #   main:
 #     name: 主页
