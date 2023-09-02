@@ -1,10 +1,14 @@
 ---
 title: Bhagavad Gita, The Timeless Wisdom for Life's Journey 
-Featured: true
+Featured: false
 date: 2023-09-02
 tags: 
    - Hinduism 
    - Religion 
+series: 
+   - Religion 
+ categories: 
+   - Content
 ---
 
 # Bhagavad Gita, The Timeless Wisdom for Life's Journey 
