@@ -1,5 +1,5 @@
 ---
-title: HB Theme Template
+title: Celestial Entity 
 # menu:
 #   main:
 #     name: Home
