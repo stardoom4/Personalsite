@@ -1,70 +1,37 @@
 main:
-  - name: Support
-    identifier: support
+  - name: Page
+    identifier: Page
     weight: 100
-    url: https://github.com/hbstack
+    url: https://spacerpod.netlify.app
     params:
-      header: The HB support community.
+      header: Personal
       icon:
         vendor: font-awesome-solid
-        name: headset
+        name: Page
 
-  - name: Documentations
-    parent: support
-    url: https://hbstack.dev/
+  - name: wiki
+    parent: Page
+    url: https://spacerpod.netlify.app/en/docs
     weight: 1
     params:
       icon:
         vendor: bs
         name: book
         className: text-primary
-      description: The documentations.
+      description: The Wiki
 
   - identifier: support-divider
-    parent: support
+    parent: Page
     weight: 10
     params:
       divider: true
 
   - name: GitHub
-    parent: support
-    url: https://github.com/hbstack
+    parent: Page
+    url: https://github.com/stardoom4
     weight: 11
     params:
       icon:
         vendor: fab
         name: github
       description: The code repository.
-
-  - name: Discussion
-    parent: support
-    url: https://github.com/orgs/hbstack/discussions
-    weight: 12
-    params:
-      icon:
-        vendor: font-awesome-regular
-        name: comments
-        color: green
-      description: Ask questions and share your ideas.
-
-  - name: Bug Report
-    parent: support
-    url: https://github.com/orgs/hbstack/discussions/new?category=issues-and-bugs
-    weight: 13
-    params:
-      icon:
-        vendor: font-awesome-solid
-        name: bug
-        color: red
-      description: Tell us about a bug or issue.
-
-  - name: Feature Request
-    parent: support
-    url: https://github.com/orgs/hbstack/discussions/new?category=ideas
-    weight: 14
-    params:
-      icon:
-        vendor: font-awesome-regular
-        name: lightbulb
-        color: orange
-      description: Suggest new or updated features.
