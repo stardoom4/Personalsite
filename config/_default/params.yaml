@@ -4,7 +4,7 @@ hb:
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
   header:
-    brand: CE # the brand name, leave it empty to use site's title.
+    brand: The Grid # the brand name, leave it empty to use site's title.
     logo_bg: '#005678' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
